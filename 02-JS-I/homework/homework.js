@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
+const nuevaString = "Max";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
@@ -148,7 +148,7 @@ function esPositivo(numero) {
   //Si el número es 0, devuelve false
   
 }
-
+-
 function agregarSimboloExclamacion(str) {
   // Agrega un símbolo de exclamación al final de la string "str" y devuelve una nueva string
   // Ejemplo: "hello world" pasaría a ser "hello world!"
